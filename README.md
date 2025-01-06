@@ -3,4 +3,4 @@
 ### Main Functionality:
 
 - Create new project;
-- Drag & Drop project from "Active" <-> Finished section
+- Drag & Drop project item from "Active" list <-> "Finished" list section
